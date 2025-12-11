@@ -26,6 +26,7 @@ Check out [GettingStarted.md](/docs/GettingStarted.md) for installation instruct
 ## TODO
 
 - [ ] first working build
+- [ ] embed micropython in C
 - [ ] contextual `Function` keys
 - [ ] "view current keymap" feature
 - [ ] markdown rendering
