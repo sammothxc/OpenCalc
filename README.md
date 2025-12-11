@@ -23,6 +23,17 @@ TBD
 
 Check out [GettingStarted.md](/docs/GettingStarted.md) for installation instructions!
 
+## TODO
+
+- [ ] first working build
+- [ ] contextual `Function` keys
+- [ ] "view current keymap" feature
+- [ ] markdown rendering
+- [ ] [ResistorCalc](https://www.calculator.net/resistor-calculator.html)
+- [ ] popular graphing calculator emulation
+- [ ] [mandelbrot app](https://github.com/Geoff-13/Mandelbrot-RP2040/tree/main)
+- [ ] co-op platform game
+
 ## Credit
 
 Credit to [jblanked/Picoware](https://github.com/jblanked/Picoware) for inspiration and heavy-lifting on the hardware side.
