@@ -16,7 +16,7 @@ This section is a basic overview of all the default apps that are included in a 
 
 ### Home Screen
 
-The default power on screen for OpenCalc is the Home Screen. All your apps can be accessed from here, with a search function to quickly find apps. The `Function` keys can be personalized to quick launch your most frequently used apps.
+The default power on screen for OpenCalc is the Home Screen. All your apps can be accessed from here, with a search function to quickly find apps. The `Function` keys can be personalized to quick launch your most frequently used apps. Wallpaper, screensaver, app layout, and quick launch keys can all be personalized in Settings.
 
 ### File Browser
 
